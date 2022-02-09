@@ -1,0 +1,43 @@
+body {
+    background-color: linear-gradient(#F57F17 0%, #1B5E20 100%);
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px blue solid;
+
+}
+
+P {
+    font-size: 21px;
+
+}
+
+.jeff {
+
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: black;
+}
+
+#my_name {
+    font-family: "Neonderthaw", cursive;
+    padding: 50px;
+    text-align: center;
+}
+
+.link {
+    color: aquamarine;
+    display: inline;
+    padding: 10px;
+}
+
+.link:hover {
+    background-color: darkslategrey;
+
+}
